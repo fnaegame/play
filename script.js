@@ -1,10 +1,9 @@
-const freddy = document.getElementById('freddy');
 const characters = document.querySelectorAll('.character');
 
-function moveFreddyWithKeys(e) {
+function moveCharacterWithKeys(e, character) {
   const speed = 10;
-  let newX = parseInt(freddy.style.left) || 0;
-  let newY = parseInt(freddy.style.top) || 0;
+  let newX = parseInt(character.style.left) || 0;
+  let newY = parseInt(character.style.top) || 0;
 
   switch (e.key) {
     case 'ArrowUp':
@@ -21,11 +20,11 @@ function moveFreddyWithKeys(e) {
       break;
   }
 
-  freddy.style.left = newX + 'px';
-  freddy.style.top = newY + 'px';
+  character.style.left = newX + 'px';
+  character.style.top = newY + 'px';
 
-  characters.forEach((character) => {
-    if (isColliding(freddy, character)) {
+  characters.forEach((otherCharacter) => {
+    if (character !== otherCharacter && isColliding(character, otherCharacter)) {
       // Handle collision (e.g., game over logic)
       console.log('Game Over!');
     }
@@ -44,4 +43,6 @@ function isColliding(element1, element2) {
   );
 }
 
-document.addEventListener('keydown', moveFreddyWithKeys);
+characters.forEach((character) => {
+  document.addEventListener('keydown', (e) => moveCharacterWithKeys(e, character));
+});
