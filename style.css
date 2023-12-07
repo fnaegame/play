@@ -15,12 +15,28 @@ body {
 }
 
 .character {
-  width: 50px;
-  height: 50px;
-  background-color: red; /* You can customize the character appearance */
+  width: 80px;
+  height: 80px;
+  background-size: cover;
   position: absolute;
 }
 
-#freddy {
-  background-color: blue; /* Customize Freddy's appearance */
+#bonnie {
+  background-image: url('bonnie.jpg');
+}
+
+#chica {
+  background-image: url('chica.jpg');
+}
+
+#foxy {
+  background-image: url('foxy.jpg');
+}
+
+#ezra {
+  background-image: url('ezra.jpg');
+}
+
+#goldenEzra {
+  background-image: url('golden-ezra.jpg');
 }
