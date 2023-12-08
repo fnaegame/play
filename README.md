@@ -3,7 +3,7 @@
 ## Developer Credits
 
 ### Project Lead
-- Silas P (GitHub: [@SilasPuma](https://github.com/silaspuma)
+- Silas P (GitHub: [@SilasPuma](https://github.com/silaspuma))
 
 ### Contributors
 - Srihan S (Scratch: [Your Username](https://scratch.mit.edu/users/your-username)
