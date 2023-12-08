@@ -6,10 +6,10 @@
 - Silas P (GitHub: [@SilasPuma](https://github.com/silaspuma))
 
 ### Contributors
-- Srihan S (Scratch: [Your Username](https://scratch.mit.edu/users/your-username)
-- Mason R (Scratch: [Your Username](https://scratch.mit.edu/users/your-username)
-- Bodhi B (Scratch: [Your Username](https://scratch.mit.edu/users/your-username)
-- Tyler M (Scratch: [Your Username](https://scratch.mit.edu/users/your-username)
+- Srihan S (Scratch: [Your Username](https://scratch.mit.edu/users/your-username))
+- Mason R (Scratch: [Your Username](https://scratch.mit.edu/users/your-username))
+- Bodhi B (Scratch: [Your Username](https://scratch.mit.edu/users/your-username))
+- Tyler M (Scratch: [Your Username](https://scratch.mit.edu/users/your-username))
 - If I left you out, let me know!
 
 ### Acknowledgments
