@@ -3,25 +3,23 @@
 ## Developer Credits
 
 ### Project Lead
-- SilasPuma (GitHub: [Your GitHub Profile](https://github.com/silaspuma))
+- Silas P (GitHub: [@SilasPuma](https://github.com/silaspuma)
 
 ### Contributors
-- [List of contributors and their roles]
+- Srihan S (Scratch: [Your Username](https://scratch.mit.edu/users/your-username)
+- Mason R (Scratch: [Your Username](https://scratch.mit.edu/users/your-username)
+- Bodhi B (Scratch: [Your Username](https://scratch.mit.edu/users/your-username)
+- Tyler M (Scratch: [Your Username](https://scratch.mit.edu/users/your-username)
+- If I left you out, let me know!
 
 ### Acknowledgments
-- Special thanks to [any specific individuals or resources you'd like to mention]
+- Special thanks to [Scratch](https://scratch.mit.edu) for their game platform🎮 & [OpenAI](https://openai.com) for ChatGPT (I need help with coding sometimes 🙂)
 
 ## About the Project
-Briefly describe the project, its purpose, and any notable features.
-
-## Getting Started
-Provide instructions on how to get the project up and running for developers.
-
-## Contributing
-Outline guidelines for contributing to the project. This could include information about pull requests, coding standards, etc.
+Five Nights at Ezra's is a thrilling version of FNAF (Five Nights at Freddy's) that me and my friends made (under development)
 
 ## Issues
-Encourage users to report any issues or bugs, and explain how they can do that.
+We encourage users to report any issues or bugs. You can report a bug by clicking "Issues" or by clicking [this link.](https://github.com/fnaegame/play/issues)
 
 ## License
-Specify the project's license information.
+FNAE is under the MIT License. For more information, go [here.](https://opensource.org/license/mit/)
