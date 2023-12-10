@@ -3,13 +3,13 @@
 ## Developer Credits
 
 ### Project Lead
-- Silas P (GitHub: [@SilasPuma](https://github.com/silaspuma))
+- Silas P (GitHub: [@SilasPuma](https://github.com/silaspuma)) (Scratch: [@SilasPuma](https://scratch.mit.edu/users/SilasPuma))
 
 ### Contributors
-- Srihan S (Scratch: [Your Username](https://scratch.mit.edu/users/your-username))
-- Mason R (Scratch: [Your Username](https://scratch.mit.edu/users/your-username))
-- Bodhi B (Scratch: [Your Username](https://scratch.mit.edu/users/your-username))
-- Tyler M (Scratch: [Your Username](https://scratch.mit.edu/users/your-username))
+- Srihan S (Scratch: [@Siliconmaster](https://scratch.mit.edu/users/Siliconmaster))
+- Mason R (Scratch: [Username Here](https://scratch.mit.edu/users/your-username))
+- Bodhi B (Scratch: [@Sniffaroonie](https://scratch.mit.edu/users/Sniffaroonie))
+- Tyler M (Scratch: [Username Here](https://scratch.mit.edu/users/your-username))
 - If I left you out, let me know!
 
 ### Acknowledgments
